@@ -1,2 +1,1 @@
-# Viv-mehsys
-Mehhaanikasüsteemide ülesanded
+Projekt "Hot and Cold"
